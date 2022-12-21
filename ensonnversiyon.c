@@ -7,7 +7,7 @@ void oyunbasladi();
 int main();
 short rakiphasar[3] = {9, 12, 16};//diziler ve değişkenler global tanımladık ki fonksiyolarda değiştirebilelim
 short rakipcan[3] = {60, 80, 100};
-short canimiz = 80, hasarimiz = 1200, bolum = 0;
+short canimiz = 80, hasarimiz = 12, bolum = 0;
 
 void rakipsaldiri()
 {
